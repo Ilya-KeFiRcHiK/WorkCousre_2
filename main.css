@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Comfortaa:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    
+}
+
+.container{
+    max-width: 1630px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.block-left{
+    width: 400px;
+    height: 700px;
+    font-size: 20px;
+    display: flex;
+    background-color: #dfdfdf;
+    justify-content: center;
+}
+
+.sod{
+    margin-top: 50px;
+}
+
+.header{
+    background-color: #053cb4;
+    padding-top: 20px;
+
+}
+
+.block-info{
+    padding: 10px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: url(img/beautiful-skyscape-daytime.jpg) center/cover no-repeat;
+    margin-top: -140px;
+}
+
+
+.img{
+    margin-left: -100px;
+}
+
+.img-vk{
+    font-size: 10px;
+    margin-left: 160px;
+    margin-top: -55px;
+}
+
+.telefon{
+    margin-top: -10px;
+    margin-left: 90px;
+    font-size: 20px;
+}
+
+.down-block{
+    margin-top: 100px;
+}
+
+.block-info-4{
+    
+    width: 100%;
+    height: 185px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #77bff2;
+
+}
+
+.info-p-1{
+    color: black;
+    margin-top: -30px;
+}
+
+.block-info-p{
+    color: white;
+    display: flex;
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.block-info-text{
+    border-radius: 20px;
+    width: 800px;
+    font-size: 30px;
+    height: 210px;
+    padding-top: 70px;
+    margin-left: 350px;
+    padding-bottom: 70px;
+    font-weight: bold;
+}
+
+.text-center{
+    text-align: center;
+    margin-right: 1000px;
+    margin-top: -200px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.header-logo img{
+    width: 180px;
+}
+
+.block{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.img-2{
+    width: 200px;
+    height: 200px;
+    margin-left: 320px;
+    margin-top: -55px;
+    margin-bottom: -55px;
+}
+
+.telegram{
+    margin-top: 5px;
+    margin-left: 85px;
+}
+
+.zvonok{
+    font-size: 20px;
+    margin-left: 90px;
+}
+
