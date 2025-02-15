@@ -9,7 +9,7 @@
 .header-2{
     background-color: #095a94;
     padding: -10px;
-    height: 153px;
+    height: 145px;
     
 }
 
@@ -20,15 +20,17 @@
 }
 
 .header-link-2{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-left: -700px;
     color: white;
     font-size: 20px;
-    margin-left: -400px;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .block-1{
     color: black;
-    width: 1000px;
+    width: 750px;
     padding-left: 120px;
     padding-right: 120px;
     display: flex;
@@ -38,12 +40,12 @@
     border: 2px solid black;
     height: 100px;
     margin-top: 125px;
-    margin-left: 420px;
+    margin-left: 550px;
 }
 
 .block-2{
     color: black;
-    width: 1000px;
+    width: 750px;
     padding-left: 120px;
     padding-right: 120px;
     display: flex;
@@ -53,7 +55,7 @@
     border-radius: 35px;
     height: 100px;
     margin-top: 150px;
-    margin-left: 420px;
+    margin-left: 550px;
 }
 
 .zero-1{
@@ -68,17 +70,12 @@
     font-size: 50px;
     margin-top: 15px;
     font-weight: bold;
+    margin: left;
 }
 
 .word{
     margin-top: 30px;
     color: black;
-}
-
-.word-2{
-    margin-top: 30px;
-    color: black;
-    margin-left: 30px
 }
 
 .img{
@@ -87,24 +84,26 @@
 }
 
 .header-logo-2 img{
-    width: 180px;
+    width: 100px;
+    height: 100px;
 }
 
 .block-info-4{
-    margin-top: 120px;
+    margin-top: 140px;
     width: 100%;
-    height: 200px;
+    height: 185px;
     padding-top: 40px;
     padding-bottom: 40px;
     background-color: #79BCE5;
 }
 
 .block{
-    margin-left: 120px;
+    font-size: 20px;
+    margin-left: 100px;
 }
 
 .img-vk{
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 .telefon{
@@ -114,3 +113,5 @@
 .zvonok{
     font-size: 20px;
 }
+
+

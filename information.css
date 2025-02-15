@@ -8,7 +8,7 @@
 
 .header-2{
     background-color: #095a94;
-    height: 152px;
+    height: 145px;
     
 }
 
@@ -22,7 +22,7 @@
     color: white;
     font-size: 20px;
     margin-left: -400px;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .img{
@@ -31,7 +31,8 @@
 }
 
 .header-logo-2 img{
-    width: 180px;
+    width: 100px;
+    height: 100px;
 }
 
 .telefon{
@@ -183,9 +184,9 @@
 }
 
 .block-info-4{
-    margin-top: 86px;
+    margin-top: 93px;
     width: 100%;
-    height: 150px;
+    height: 151px;
     padding-top: 40px;
     padding-bottom: 40px;
     background-color: #79BCE5;

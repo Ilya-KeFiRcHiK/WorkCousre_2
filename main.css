@@ -25,12 +25,11 @@
 }
 
 .block-left{
-    width: 400px;
-    height: 700px;
+    width: 300px;
+    height: 1000px;
     font-size: 20px;
     display: flex;
     background-color: #dfdfdf;
-    justify-content: center;
 }
 
 .sod{
@@ -43,14 +42,33 @@
 
 }
 
+.header-logo img{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.menu-left{
+    padding: 20px;
+    color: #053cb4;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    width: 250px;
+}
+
 .block-info{
     padding: 10px;
     padding-top: 80px;
     padding-bottom: 80px;
     background: url(img/beautiful-skyscape-daytime.jpg) center/cover no-repeat;
-    margin-top: -140px;
+    margin-top: -182px;
 }
 
+.menu-p{
+    padding: 30px;
+}
 
 .img{
     margin-left: -100px;
@@ -73,14 +91,13 @@
 }
 
 .block-info-4{
-    
     width: 100%;
     height: 185px;
     padding-top: 40px;
     padding-bottom: 40px;
-    background-color: #77bff2;
-
+    background-color: #79BCE5;
 }
+
 
 .info-p-1{
     color: black;
@@ -133,8 +150,8 @@
 }
 
 .telegram{
-    margin-top: 5px;
-    margin-left: 85px;
+    margin-top: 50px;
+    margin-left: 125px;
 }
 
 .zvonok{
