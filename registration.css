@@ -8,7 +8,6 @@
 
 .header-nav-2{
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -35,11 +34,17 @@ body{
     padding: 20px;
 }
 
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
 .header-link-2{
     color: white;
     font-size: 20px;
     display: flex;
     margin-left: 200px;
+    justify-content: space-between;
     text-decoration: none
 }
 

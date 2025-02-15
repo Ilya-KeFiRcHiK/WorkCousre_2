@@ -16,6 +16,14 @@
     padding-right: 15px;
 }
 
+.main{
+    display: flex;
+}
+
+.block-right{
+    padding: 50px;
+}
+
 .block-left{
     width: 400px;
     height: 700px;
