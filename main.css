@@ -26,7 +26,7 @@
 
 .block-left{
     width: 300px;
-    height: 1000px;
+    height: 1700px;
     font-size: 20px;
     display: flex;
     background-color: #dfdfdf;
@@ -43,19 +43,25 @@
 }
 
 .header-logo img{
-    margin-top: 20px;
-    margin-left: 50px;
     width: 100px;
     height: 100px;
 }
 
 .menu-left{
-    padding: 20px;
+    margin-left: 30px;
     color: #053cb4;
     text-decoration: none;
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
     text-align: center;
-    width: 250px;
+    width: 300px;
+}
+
+
+.img{
+    margin-top: 20px;
+    margin-left: 160px;
 }
 
 .block-info{
@@ -66,8 +72,10 @@
     margin-top: -182px;
 }
 
-.menu-p{
-    padding: 30px;
+p{
+    font-size: 20px;
+    line-height: 50px;
+    text-align: justify;
 }
 
 .img{
@@ -92,7 +100,7 @@
 
 .block-info-4{
     width: 100%;
-    height: 185px;
+    height: 210px;
     padding-top: 40px;
     padding-bottom: 40px;
     background-color: #79BCE5;
@@ -159,3 +167,16 @@
     margin-left: 90px;
 }
 
+.telegram{
+    margin-left: 120px;
+}
+
+.menu-p{
+    font-size: 20px;
+    line-height: 50px;
+    text-align: justify;
+}
+
+.img-vk{
+    margin-left: 30px;
+}

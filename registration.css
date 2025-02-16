@@ -12,7 +12,13 @@
 }
 
 .header-logo-2 img{
-    width: 180px;
+    width: 100px;
+    height: 100px;
+}
+
+.img{
+    margin-top: 20px;
+    margin-left: 160px;
 }
 
 .container-2{
@@ -32,6 +38,7 @@ body{
 .header-2{
     background-color: #095a94;
     padding: 20px;
+    height: 160px;
 }
 
 .menu{

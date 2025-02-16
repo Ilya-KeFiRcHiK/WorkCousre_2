@@ -19,20 +19,22 @@
 .header-logo img{
     width: 100px;
     height: 100px;
-    margin-left: -30px;
+}
+
+.header-logo-2 img{
+    width: 100px;
+    height: 100px;
 }
 
 .header{
     
     padding-top: 20px;
-    filter: brightness(80%);
 
 }
 
 .img{
     margin-top: 20px;
-    margin-left: 60px;
-    width: 50px;
+    margin-left: 160px;
 }
 
 .header-nav{
